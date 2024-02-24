@@ -2,7 +2,7 @@
 <h3 align="center">Currently an IT Student from FEU Institute of Technology</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rywell07&label=Profile%20views&color=0e75b6&style=flat" alt="rywell07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rywell07&theme=" alt="rywell07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rywell07&theme=onedark" alt="rywell07" /></a> </p>
 
 - 🌱 I’m currently learning **Information Technology**
 
